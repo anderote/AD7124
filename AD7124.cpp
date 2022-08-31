@@ -28,7 +28,7 @@
   Forked and added to by Andrew Cote 2022
 */ 
 
-#include "NHB_AD7124.h"
+#include "AD7124.h"
 
 /* Error codes */
 #define AD7124_INVALID_VAL -1 /* Invalid argument */
