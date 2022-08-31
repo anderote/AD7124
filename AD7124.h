@@ -24,8 +24,8 @@
   SOFTWARE.
 */
 
-#ifndef NHB_AD7124
-#define NHB_AD7124
+#ifndef AD7124
+#define AD7124
 
 #include <Arduino.h>
 #include <SPI.h>
