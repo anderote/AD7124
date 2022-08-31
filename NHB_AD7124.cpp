@@ -24,6 +24,10 @@
   SOFTWARE.
 */
 
+/* 
+  Forked and added to by Andrew Cote 2022
+*/ 
+
 #include "NHB_AD7124.h"
 
 /* Error codes */
